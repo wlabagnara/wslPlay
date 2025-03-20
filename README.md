@@ -344,7 +344,13 @@ Launch session from terminal/cmd window with admin:
 - Download: https://www.xilinx.com/support/download/index.html/content/xilinx/en/downloadNav/vivado-design-tools/2024-2.html
 
 
-				
+#### AMD Workshop/Training Links:
+- https://learningcatalog-amd.netexam.com/
+- https://learningcatalog-amd.netexam.com/Certification/57404/embedded-design-with-petalinux-tools
+- https://learningcatalog-amd.netexam.com/Certification/65622/embedded-linux-development-using-yocto
+- https://learningcatalog-amd.netexam.com/ParentCertification/280/gold-academy-embd-acceleration-and-ai-individual-1-user
+
+		
 		
 	
 	
