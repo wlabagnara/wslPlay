@@ -345,6 +345,7 @@ Launch session from terminal/cmd window with admin:
 
 
 #### AMD Workshop/Training Links:
+- https://learningcatalog-amd.netexam.com/Search?searchText=free+workshop   (Free Workshops)
 - https://learningcatalog-amd.netexam.com/
 - https://learningcatalog-amd.netexam.com/Certification/57404/embedded-design-with-petalinux-tools
 - https://learningcatalog-amd.netexam.com/Certification/65622/embedded-linux-development-using-yocto
